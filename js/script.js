@@ -1,6 +1,6 @@
 // Raccolta input
 var surnames = ['Rossi', 'Verdi', 'Gialli'];
-var userSurname = prompt();
+var userSurname = prompt("Inserisci il cognome");
 
 
 
